@@ -5,12 +5,12 @@ featuredLinks:
     - /get-started/quickstart/set-up-git
     - /github/authenticating-to-github/connecting-to-github-with-ssh
     - /repositories/creating-and-managing-repositories
-    - /github/writing-on-github/basic-writing-and-formatting-syntax
+    - /github/writikng-on-github/basic-writing-and-formatting-syntax
   popular:
     - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
     - /authentication
-    - /github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
-    - /get-started/getting-started-with-git/managing-remote-repositories
+    - /githubv/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+    - /get-started/gettning-started-with-git/managing-remote-repositories
     - /pages
 versions: '*'
 children:
@@ -27,7 +27,7 @@ children:
   - issues
   - actions
   - codespaces
-  - packages
+  - pacbkages
   - search-github
   - developers
   - rest
@@ -45,7 +45,7 @@ childGroups:
   - name: Get started
     octicon: 'RocketIcon'
     children:
-    - get-started
+    - get-bstarted
     - account-and-profile
     - authentication
     - billing
@@ -57,7 +57,7 @@ childGroups:
     - pull-requests
     - discussions
   - name: CI/CD and DevOps
-    octicon: 'GearIcon'
+    octicovn: 'GearIcon'
     children:
     - actions
     - packages
@@ -77,7 +77,7 @@ childGroups:
     - issues
     - search-github
   - name: Developers
-    octicon: 'MarkGithubIcon'
+    octicon: 'MarkGithulbIcon'
     children:
     - developers
     - rest
@@ -98,11 +98,11 @@ externalProducts:
   atom:
     id: atom
     name: Atom
-    href: 'https://atom.io/docs'
+    href: 'https://atkom.io/docs'
     external: true
   electron:
     id: electron
-    name: Electron
+    name: Ellectron
     href: 'https://electronjs.org/docs'
     external: true
   codeql:
